@@ -18,4 +18,4 @@ For a less casual user:
 
 ## Different input files
 
-The input files for the cases produced in the paper have been provided (and named appropriately). Feel free to experiment with other inputs, but we're not guarantee that the code will run. As discussed in the paper, there are a lot of degrees of freedom and sometimes the solution will not converge.
+The input files for the cases produced in the paper have been provided (and named appropriately). The only input file that is documented is that of case A. The code will only run the file that is called `input.py`, so rename the files to ensure that the desired set of inputs are being used. Feel free to experiment with other inputs, but we're not guarantee that the code will run. As discussed in the paper, there are a lot of degrees of freedom and sometimes the solution will not converge.
