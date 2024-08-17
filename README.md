@@ -1,9 +1,9 @@
 # self_similar_public
 A repository containing the code used to generate results given in "Self-similar solutions for resistive diffusion, Ohmic heating and Ettingshausen effects in plasmas of arbitrary β", found here: https://arxiv.org/abs/2111.05064
 
-For any comments or queries, please contact gf715@ic.ac.uk
+For any comments or queries, please contact gmmfarrow@gmail.com
 
-For information on how to use these as test problems (as in our paper), please contact gf715@ic.ac.uk
+For information on how to use these as test problems (as in our paper), please contact gmmfarrow@gmail.com
 
 ## Usage
 For a casual user, the only file that should need to be edited at all is `input.py`. This changes the normalisation values, the boundary conditions and the logical switches for the different transport terms. There are also optional switches to e.g. save data or change the tolerances for the shooting method used. There is documentation within this file explaining what all of the different terms do
